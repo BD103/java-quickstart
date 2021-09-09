@@ -6,4 +6,4 @@ github_username: BD103
 exclude: ["LICENSE"]
 
 markdown: gfm
-theme: jekyll-theme-slate
+remote_theme: brennanbrown/watery
