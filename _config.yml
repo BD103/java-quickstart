@@ -1,1 +1,9 @@
+url: https://bd103.github.io/java-quickstart
+title: Java Quickstart
+subtitle: A (quick) guide to Java
+github_username: BD103
+
+exclude: ["LICENSE"]
+
+markdown: gfm
 theme: jekyll-theme-slate
