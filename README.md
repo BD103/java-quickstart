@@ -1,5 +1,3 @@
-# Java Quickstart
-
 _Written by [BD103](https://github.com/BD103)_
 
 ## Intro
